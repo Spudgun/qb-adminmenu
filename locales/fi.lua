@@ -15,6 +15,7 @@ local Translations = {
         ["failed_set_speed"] = "Et asettanut nopeutta(`fast` nopea, `normal` normaali)",
         ["failed_set_model"] = "Et asettanut mallia",
         ["failed_entity_copy"] = "Ei vapaan kohteen tietoja kopioitaviksi leikepöydälle!",
+        ["no_permissions"] = "You don't have permission to use this feature",
     },
     success = {
         ["blips_activated"] = "Blipit aktivoitu!",

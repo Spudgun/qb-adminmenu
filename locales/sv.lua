@@ -14,6 +14,7 @@ local Translations = {
         ["no_receive_report"] = "Du får inga rapporteringar",
         ["failed_set_speed"] = "Du satte ingen fart.. (`fast` för superfart, `normal` för normal)",
         ["failed_set_model"] = "Du satte ingen modell..",
+        ["no_permissions"] = "You don't have permission to use this feature",
     },
     success = {
         ["blips_activated"] = "Blips aktiverade",

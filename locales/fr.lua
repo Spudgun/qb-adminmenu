@@ -15,6 +15,7 @@ local Translations = {
         ["failed_set_speed"] = "Vous n'avez pas spécifié de vitesse.. (`fast` pour super-run, `normal` pour normal)",
         ["failed_set_model"] = "Vous n'avez pas mis de model..",
         ["failed_entity_copy"] = "Aucune information d'entité freeaim à copier dans le presse-papier !",
+        ["no_permissions"] = "You don't have permission to use this feature",
     },
     success = {
         ["blips_activated"] = "Blips activés",

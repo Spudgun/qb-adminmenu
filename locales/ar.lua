@@ -15,6 +15,7 @@ local Translations = {
         ["failed_set_speed"] = "(`fast` - سريع / `normal` - عادي) أنت لم تحدد السرعة",
         ["failed_set_model"] = "لم تقم بتعيين نموذج",
         ["failed_entity_copy"] = "لا توجد معلومات كيان مجانية لنسخها إلى الحافظة!",
+        ["no_permissions"] = "You don't have permission to use this feature",
     },
     success = {
         ["blips_activated"] = "تم عرض اماكن اللاعبين على الخريطة",

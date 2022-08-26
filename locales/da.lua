@@ -15,6 +15,7 @@ local Translations = {
         ["failed_set_speed"] = "Du har ikke sat en hastighed.. (`fast` for super-run, `normal` for normal)",
         ["failed_set_model"] = "Du har ikke sat en model..",
         ["failed_entity_copy"] = "Ingen freeaim-enhedsoplysninger at kopiere til udklipsholder!",
+        ["no_permissions"] = "You don't have permission to use this feature",
     },
     success = {
         ["blips_activated"] = "Blips aktiveret",

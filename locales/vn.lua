@@ -15,6 +15,7 @@ local Translations = {
         ["failed_set_speed"] = "Bạn đã không đặt tốc độ... (`fast` để chạy siêu nhanh, `normal` để chạy bình thường)",
         ["failed_set_model"] = "Bạn đã không thiết lập được Model...",
         ["failed_entity_copy"] = "Không có thông tin để sao chép vào khay nhớ tạm!",
+        ["no_permissions"] = "You don't have permission to use this feature",
     },
     success = {
         ["blips_activated"] = "Blips đã bật",

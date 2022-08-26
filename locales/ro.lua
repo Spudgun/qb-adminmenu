@@ -19,6 +19,7 @@ local Translations = {
         ["failed_set_speed"] = "Nu ai setat viteza.. (`fast` pentru super-viteza, `normal` pentru viteza normala)",
         ["failed_set_model"] = "Nu ai setat modelul..",
         ["failed_entity_copy"] = "Nu exista informatii despre enitatea targetata de copiat!",
+        ["no_permissions"] = "You don't have permission to use this feature",
     },
     success = {
         ["blips_activated"] = "Blipuri activate",
